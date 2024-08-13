@@ -45,7 +45,7 @@
                                     <li>
                                         <a href="https://convocation.nsut.ac.in/" style="padding:5px; display:flex; ">
                                             <img src="./asset/images/logo.png" style="height: 50px !important" alt="Netaji Subhas University of Technology"/>
-                                            <h1 style="font-size: 15px; color:white; padding: 5px; padding-left: 5px; " >NETAJI SUBHAS UNIVERSITY OF TECHNOLOGY</h1>
+                                            <h1 style="font-family: sans-serif; font-size: 12px; color:white; padding: 5px; padding-left: 5px; " >NETAJI SUBHAS UNIVERSITY OF TECHNOLOGY</h1>
 
                                         </a>
                                     </li>
@@ -113,7 +113,7 @@
 
 
                                     <li>
-                                        <a class="main" href="register.php" target="_blank">Registration</a>
+                                        <a class="main" href="register.php">Registration</a>
                                     </li>
                                     <li>
                                         <a class="main" href="underconstruction.php">Announcements </a> 
