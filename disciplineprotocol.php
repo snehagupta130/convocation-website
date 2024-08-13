@@ -102,15 +102,6 @@ page-title -->
             <p>6. &nbsp;&nbsp;</p>
               <p>During the function the audience will keep sitting in their seats and will not move out of their seats. Audience will move towards designated exits for refreshment/lunch only after the academic procession departs and announcement is made.</p></div>
             
-            
-            
-              
-        
-        
-		
-
-		
-     
   </div>
 </section>
 

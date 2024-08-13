@@ -30,7 +30,7 @@ page-title-->
     <div class="row">
      <div class="col-lg-12">
       <div class="page-title-name">
-          <h1>Online Registration</h1>
+          <h1 style = "font-weight: bold; font-size: 35px">Online Registration</h1>
         </div>
         
         <!-- <ul class="page-breadcrumb">
