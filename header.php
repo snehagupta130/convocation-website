@@ -111,6 +111,24 @@
                                         .dropdown:hover .dropbtn {}
                                     </style>
 
+
+                                    <li>
+                                        <a class="main" href="register.php" target="_blank">Registration</a>
+                                    </li>
+                                    <li>
+                                        <a class="main" href="underconstruction.php">Announcements </a> 
+                                    </li>
+                                    <li>
+                                        <a class="main" href="underconstruction.php">Photo Gallery </a> 
+                                    </li>
+                                    <!-- <li>
+                                        <a class="main" href="contact.php">Contact </a> 
+                                    </li> -->
+
+                                    <li>
+                                        <a class="main" href="underconstruction.php">Dress Code</a>
+                                    </li>
+
                                     <div class="dropdown">
                                         <button class="dropbtn ">Convocation Protocol <i class="fa fa-angle-down fa-indicator "></i></button>
                                         <div class="dropdown-content">
@@ -124,19 +142,6 @@
                                         <a target="_blank" href="parkingprotocol.php">Parking</a>
                                         </div>
                                     </div>
-
-                                    <li>
-                                        <a class="main" href="register.php" target="_blank">Registration</a>
-                                    </li>
-                                    <li>
-                                        <a class="main" href="underconstruction.php">Announcements </a> 
-                                    </li>
-                                    <li>
-                                        <a class="main" href="underconstruction.php">Photo Gallery </a> 
-                                    </li>
-                                    <li>
-                                        <a class="main" href="contact.php">Contact </a> 
-                                    </li>
                                     <!-- </div> -->
 
                                 </ul>
