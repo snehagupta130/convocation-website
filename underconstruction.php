@@ -30,7 +30,7 @@ page-title-->
     <div class="row">
      <div class="col-lg-12">
       <div class="page-title-name">
-          <h1>Under Construction</h1>
+          <h1>Stay Tuned</h1>
         </div>
         
         <!-- <ul class="page-breadcrumb">

@@ -54,7 +54,7 @@ page-title -->
    
            
             
-              <p>Google forms for registration for Convocation 2024 has been emailed to all students in the NSUT accounts. Please note that it is mandatory to submit the registration forms before 25 August.</p>
+              <h5>Google forms for registration for Convocation 2024 has been emailed to all students in the NSUT accounts. Please note that it is mandatory to submit the registration forms before 25 August.</h5>
             
             
             
