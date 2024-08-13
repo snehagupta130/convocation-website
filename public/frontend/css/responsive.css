@@ -165,9 +165,9 @@
 
 }
 
-@media (min-width: 1200px) {
+/* @media (min-width: 1200px) {
 .container { max-width: 1170px; }
-}
+} */
 
 @media (max-width: 1200px) {
 .login-2-social li {margin: 0 3px;}

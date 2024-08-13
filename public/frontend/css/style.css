@@ -81,7 +81,7 @@
 .topbar ul li a:hover { color: #84ba3f;}
 
 /*menu*/
-.menu-bar { float: right; }
+/* .menu-bar { float: right; } */
 .mega-menu .menu-links { float: left; }
 .search-cart { display: inline-block;   }
 .search-cart i.icon { color: #ffffff; line-height: 20px; font-size: 14px; transition: 0.5s ease-in-out; -webkit-transition: 0.5s ease-in-out; -moz-transition: 0.5s ease-in-out; -o-transition: 0.5s ease-in-out; }
