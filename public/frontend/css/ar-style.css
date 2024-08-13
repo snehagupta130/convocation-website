@@ -1,0 +1,175 @@
+@font-face {
+  font-family: 'Titillium Web';
+  src: url(../fonts/TitilliumWeb-Regular.ttf);
+}
+body {
+    line-height: 1.4 !important;
+    font-size: 15px !important;
+}
+.mega-menu .menu-logo img {
+    height: 100px !important;
+}
+
+.mega-menu .menu-logo {
+    padding: 0px 0 0px !important;
+}
+
+.header.transparent {
+    background: rgba(0, 0, 0, 0.6) !important;
+}
+
+.ar-bd-right {
+	border-right: 6px solid #C21717 !important;
+	padding-right: 20px !important;
+}
+
+.ar-bd-left {
+	border-left: 6px solid #C21717 !important;
+	padding-left: 20px !important;
+}
+
+.bg-theme-colored2 {
+    background-color: #C21717 !important;
+}
+.text-theme-colored2{
+	color: #C21717 !important;
+}
+.topbar {
+    padding: 5px 0 !important;
+}
+.topbar-call ul li a {
+    margin-right: 0px !important;
+}
+img#logo-footer {
+    height: 80px !important;
+}
+.topbar a:hover{
+	color: #000000 !important;
+}
+/* .contact-box a:hover{
+	color: #000000 !important;
+} */
+/* .feature-text a:hover{
+	color: #000000 !important;
+} */
+ul.list i {
+    top: 8px !important;
+}
+.process .border-area.left-bottom {
+    background: #f7f7f7 !important;
+}
+.process .border-area.left-top {
+    background: #f7f7f7 !important;
+}
+.process .border-area.right-top {
+    background: #f7f7f7 !important;
+}
+.process .border-area.right-bottom {
+    background: #f7f7f7 !important;
+}
+.team .team-description {
+    padding: 20px 10px 10px !important;
+}
+
+.portfolio-item .portfolio-overlay {
+    width: 100%;
+    padding: 10px 0px;
+    position: absolute;
+    bottom: -130px;
+    display: block;
+    margin-top: 0;
+    float: left;
+    z-index: 9;
+    text-align: left;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    left: 0;
+    transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+}
+.redl-bg {
+    background: #fff1f1;
+    padding: 10px;
+}
+.mega-menu {
+    z-index: 1000 !important;
+}
+.ar-profile-bg {
+	background: #C21717 !important;
+}
+.text-argray{
+	color: #e3e3e3 !important;
+}
+
+.ar-profile-bg a{
+	color: #e3e3e3 !important;
+}
+.ar-profile-bg .font-16{
+	font-size: 16px !important;
+}
+.ar-profile-bg ul.list li {
+    line-height: 22px !important;
+}
+.team .team-info span {
+    text-transform: none !important;
+}
+.holder { 
+  width:300px;
+  height:400px;
+  overflow:hidden;
+  padding:10px;
+  font-family:Helvetica;
+}
+.holder .mask {
+  position: relative;
+  left: 0px;
+  top: 10px;
+  width:300px;
+  height:290px;
+  overflow: hidden;
+}
+.holder ul {
+  list-style:none;
+  margin:0;
+  padding:0;
+  position: relative;
+}
+.holder ul li {
+  padding:10px 0px;
+}
+.holder ul li a {
+  color:darkred;
+  text-decoration:none;
+}
+.news-title {
+    margin: 10px;
+}
+.contact-box a{
+	color: white !important;
+}
+.service ul li a {
+    text-transform: none !important;
+	padding: 12px 16px !important;
+}
+.ar-img-responsive {
+    max-width: 100% !important;
+    height: auto !important;
+}
+@media screen and (min-width: 992px){
+	.mega-menu.desktopTopFixed .menu-list-items .menu-logo > li > a img {
+    margin: 0px 0px !important;
+}
+}
+@media screen and (min-width: 768px){
+	.ar-profile-bg {
+    height: 600px !important;
+    }
+}
+@media screen and (min-width: 990px){
+    .page-title.small {
+        padding-top: 140px !important;
+    }
+}

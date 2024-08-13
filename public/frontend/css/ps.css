@@ -1,0 +1,91 @@
+/*.page-title .container {
+    height: auto !important;
+}
+
+.fa {
+
+    font: normal normal normal 14px/2 FontAwesome !important;
+}
+
+.mega-menu .menu-logo img {
+    height: 55px;
+}*/
+
+.ps-image{
+	max-width: 263px !important;
+    max-height: 272px !important;
+}
+
+.img-fluid-ps {
+    
+    height: 273px !important;
+
+}
+
+.h5-ps {
+    font-size: 14px !important;
+}
+
+.ps-image-news{
+	max-width: 367px !important;
+    height: 296px !important;
+}
+
+.ps-image-gallery{
+	max-width: 480px !important;
+    height: 360px !important;
+}
+/* 
+.ps-border-icon{
+	border-color: #ffffff !important;
+} */
+
+/* .carousel-item{
+    height: 720px;
+    background-color: #000;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+} */
+
+.content {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-25%);
+    color: white;
+    /* font-size: xx-large; */
+    /* font-size: 45px; */
+    line-height: 60px;
+    font-weight: 400;
+}
+
+.m-iitd {
+	float: right !important;
+    width: auto !important;
+}
+
+.m-dj-iitd {
+	float: left !important;
+    width: auto !important;
+}
+
+.quotes {display: none;}
+
+.mt-resp {
+    margin-top: 12px !important;
+    float: left !important
+  }
+
+  .resp-iitd-text {
+    font-size: 15px !important;
+    height: 50px !important
+  }
+
+.ps-line{
+    line-height: 80px !important;
+}
+
+
+
