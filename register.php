@@ -30,7 +30,7 @@ page-title-->
     <div class="row">
      <div class="col-lg-12">
       <div class="page-title-name">
-          <h1>Online Registration</h1>
+          <h1>Registration</h1>
         </div>
         
         <!-- <ul class="page-breadcrumb">
@@ -50,21 +50,7 @@ page-title -->
 
 <section class="service white-bg page-section-ptb">
   <div class="container">
-	 
-   
-           
-            
-              <h5>Google forms for registration for Convocation 2024 has been emailed to all students in the NSUT accounts. Please note that it is mandatory to submit the registration forms before 25 August.</h5>
-            
-            
-            
-              
-        
-        
-		
-
-		
-     
+    <h5>The Google registration forms for Convocation 2024 have been sent to all graduands via their NSUT email accounts. Please note that it is mandatory to complete and submit the registration forms by August 25th. This submission is a crucial part of the pre-registration process.</h5>
   </div>
 </section>
 

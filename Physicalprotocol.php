@@ -62,7 +62,13 @@ page-title -->
 
             <div style="display: flex; ">
             <p>3. &nbsp;&nbsp;</p>
-              <p>All graduating students must sign their attendance on the sheets provided and deposit their I-cards at the registration desks. They will be given the academic regalia sashes.</p></div>
+              <p>All graduating students are required to sign the attendance sheets provided and submit their I-cards at the registration desks.
+              </p></div>
+
+            <div style="display: flex; ">
+            <p>3. &nbsp;&nbsp;</p>
+              <p>Academic regalia, including sashes, will be distributed to the students after registration.
+              </p></div>
             
             
             

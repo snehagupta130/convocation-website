@@ -76,6 +76,10 @@ page-title -->
             <p>6. &nbsp;&nbsp;</p>
               <p>Please register here.(LINK)</p></div>
             
+            <div style="display: flex; ">
+              <p>7. &nbsp;&nbsp;</p>
+              <p>Only those who have completed online registration will be eligible for Physical registration.</p>
+            </div>
             
               
         
