@@ -27,7 +27,7 @@
                 </div>
                 <!-- <div class="col-lg-6 col-md-6 col-12" style="width: fit-content "> -->
                 <div class=" " style="width: fit-content ">
-                    <div class="topbar-social text-center text-md-right">
+                    <div class="topbar-social text-center text-md-right" style = "position:absolute; top:10px; right: 10px;">
                         <ul>
                             <li>Convocation 2024 : 4th October 2024</li>
                             <li><a href="https://x.com/NSUT_OFFICIAL?t=icb5M1a5S3V6pZAQu47nQw&s=08"><span class="fa fa-twitter"></span></a></li>
