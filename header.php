@@ -2,9 +2,10 @@
 
     <!-- red announcement scroller -->
     <div class="topbar bg-theme-colored2">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 col-md-6 col-12">
+        <div class="container" style="margin: 0px;" >
+            <div class="row" style=" display: flex; justify-content: space-between;" >
+                <!-- <div class="col-lg-6 col-md-6 col-12" style="width: fit-content "> -->
+                <div class="" style="width: fit-content ">
                     <div class="topbar-call text-center text-md-left">
                         <ul>
                             <li>
@@ -17,7 +18,15 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-6 col-12">
+                <div class="scrolling-announcement">
+                    <ul>
+                        <li>
+                            oiuytfghjkoytrfghiuytrdfghiij
+                        </li>
+                    </ul>
+                </div>
+                <!-- <div class="col-lg-6 col-md-6 col-12" style="width: fit-content "> -->
+                <div class=" " style="width: fit-content ">
                     <div class="topbar-social text-center text-md-right">
                         <ul>
                             <li>Convocation 2024 : 4th October 2024</li>
