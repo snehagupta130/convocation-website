@@ -6,7 +6,7 @@
             <div class="row" style=" display: flex; justify-content: space-between;" >
                 <!-- <div class="col-lg-6 col-md-6 col-12" style="width: fit-content "> -->
                 <div class="" style="width: fit-content ">
-                    <div class="topbar-call text-center text-md-left">
+                    <div class="topbar-call text-center text-md-left" style = "position:absolute; top:10px; left: 10px;">
                         <ul>
                             <li>
                                 <a href="http://www.nsut.ac.in/">
@@ -18,9 +18,9 @@
                         </ul>
                     </div>
                 </div>
-                <div class="scrolling-announcement">
-                    <ul>
-                        <li>
+                <div class="scrolling-announcement" style = "background color: #a7161b">
+                    <ul style = "background color: #a7161b">
+                        <li style = "background color: black">
                             oiuytfghjkoytrfghiuytrdfghiij
                         </li>
                     </ul>
