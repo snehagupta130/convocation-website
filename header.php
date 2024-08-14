@@ -4,7 +4,7 @@
     <div class="topbar bg-theme-colored2">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6 col-md-6">
+                <div class="col-lg-6 col-md-6 col-12">
                     <div class="topbar-call text-center text-md-left">
                         <ul>
                             <li>
@@ -17,7 +17,7 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-6">
+                <div class="col-lg-6 col-md-6 col-12">
                     <div class="topbar-social text-center text-md-right">
                         <ul>
                             <li>Convocation 2024 : 4th October 2024</li>
@@ -38,14 +38,14 @@
             <section class="menu-list-items">
                 <div class="container" style="max-width: 100%; padding-left: 3rem ; padding-right: 4rem;">
                     <div class="row">
-                        <div class="col-lg-12 col-md-12">
+                        <div class="col-lg-12 col-md-12 col-12">
                             <div class="menu-bar" style="display: flex; justify-content: space-between;" >
                                 <!-- navbar  -->
                                 <ul class="menu-logo">
                                     <li>
                                         <a href="https://convocation.nsut.ac.in/" style="padding:5px; display:flex; ">
                                             <img src="./asset/images/logo.png" style="height: 50px !important" alt="Netaji Subhas University of Technology"/>
-                                            <h1 style="font-size: 15px; color:white; padding: 5px; padding-left: 5px; " >NETAJI SUBHAS UNIVERSITY OF TECHNOLOGY</h1>
+                                            <h1 style="font-family: sans-serif; font-size: 12px; color:white; padding: 5px; padding-left: 5px; " >NETAJI SUBHAS UNIVERSITY OF TECHNOLOGY</h1>
 
                                         </a>
                                     </li>
@@ -113,7 +113,7 @@
 
 
                                     <li>
-                                        <a class="main" href="register.php" target="_blank">Registration</a>
+                                        <a class="main" href="register.php">Registration</a>
                                     </li>
                                     <li>
                                         <a class="main" href="underconstruction.php">Announcements </a> 
@@ -126,25 +126,26 @@
                                     </li> -->
 
                                     <li>
-                                        <a class="main" href="underconstruction.php">Dress Code</a>
+                                        <a class="main" href="dressprotocol.php">Dress Code</a>
                                     </li>
 
-                                    <div class="dropdown">
+                                    <li class="dropdown">
                                         <button class="dropbtn ">Convocation Protocol <i class="fa fa-angle-down fa-indicator "></i></button>
                                         <div class="dropdown-content">
-                                        <a target="_blank" href="generalprotocol.php">General</a>
-                                        <a target="_blank" href="onlineprotocol.php">Online Registration</a>
-                                        <a target="_blank" href="Physicalprotocol.php">Physical Registration</a>
-                                        <a target="_blank" href="dressprotocol.php">Dress Code</a>
-                                        <a target="_blank" href="disciplineprotocol.php">Discipline</a>
-                                        <a target="_blank" href="seatingprotocol.php">Seating Plan</a>
-                                        <a target="_blank" href="photoprotocol.php">Photography</a>
-                                        <a target="_blank" href="parkingprotocol.php">Parking</a>
+                                        <a href="generalprotocol.php">General</a>
+                                        <a href="onlineprotocol.php">Online Registration</a>
+                                        <a href="Physicalprotocol.php">Physical Registration</a>
+                                        <a href="dressprotocol.php">Dress Code</a>
+                                        <a href="disciplineprotocol.php">Discipline</a>
+                                        <a href="seatingprotocol.php">Seating Plan</a>
+                                        <a href="photoprotocol.php">Photography</a>
+                                        <a href="parkingprotocol.php">Parking</a>
                                         </div>
-                                    </div>
+                                    </li>
                                     <!-- </div> -->
 
                                 </ul>
+                                
                             </div>
                         </div>
                     </div>
@@ -153,3 +154,4 @@
         </nav>
     </div>
 </header>
+
