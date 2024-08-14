@@ -1,28 +1,40 @@
-
 <!-- Header -->
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 
-<?php include('head.php'); ?> 
+  <?php include('head.php'); ?>
+
+  <script>
+    // JavaScript to log the width of the screen every time it changes
+    window.addEventListener('resize', function() {
+      console.log('Width of the screen: ' + window.innerWidth + 'px');
+    });
+
+    // Log the initial width of the screen when the page loads
+    document.addEventListener('DOMContentLoaded', function() {
+      console.log('Initial width of the screen: ' + window.innerWidth + 'px');
+    });
+  </script>
 </head>
 
 <body>
 
-<div class="wrapper">
+  <div class="wrapper">
 
-<!--=================================
- preloader -->
- 
-
-<!--=================================
+    <!--=================================
  preloader -->
 
-<?php include('header.php'); ?> 
+
+    <!--=================================
+ preloader -->
+
+    <?php include('header.php'); ?>
 
 
-<!--================================= Slider -->
-<!-- <div id="carouselExampleRide" class="carousel slide" data-bs-ride="true">
+    <!--================================= Slider -->
+    <!-- <div id="carouselExampleRide" class="carousel slide" data-bs-ride="true">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="asset/images/2.jpg" class="d-block w-100" alt="Hello">
@@ -44,39 +56,38 @@
   </button>
 </div> -->
 
-<video autoplay muted width="100%" loop>
-  <source src="./asset/images/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+    <video autoplay muted width="100%" loop>
+      <source src="./asset/images/video.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
 
-<!-- <img src="./asset/images/video.mp4" alt="Computer man" style="width:1920px;height:1080px;"> -->
-<!-- <img src="./asset/images/a.gif" alt="Computer man" style="width:1920px;height:1080px;"> -->
+    <!-- <img src="./asset/images/video.mp4" alt="Computer man" style="width:1920px;height:1080px;"> -->
+    <!-- <img src="./asset/images/a.gif" alt="Computer man" style="width:1920px;height:1080px;"> -->
 
 
-<!-- ============================== Dignitaries -->
-<section class="shop-06-product page-section-ptb flag-bg gray-bg pb-20" id="deignitaries">
-  <div class="container"> 
-  <div class="row justify-content-center">
-      <div class="col-lg-8 col-md-8">
-        <div class="section-title text-center">
-          <h2>Dignitaries</h2>
-      <br><br>
-          
+    <!-- ============================== Dignitaries -->
+    <section class="shop-06-product page-section-ptb flag-bg gray-bg pb-20" id="deignitaries">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-8 col-md-8">
+            <div class="section-title text-center">
+              <h2>Dignitaries</h2>
+              <br><br>
+            </div>
+          </div>
         </div>
       </div>
-    </div>
-  </div>
-</section>
+    </section>
 
 
 
 
 
- 
- <!--=================================footer -->
-  
- <?php include("footer.php"); ?>
- 
+
+    <!--=================================footer -->
+
+    <?php include("footer.php"); ?>
+
 </body>
 
 </html>

@@ -456,3 +456,25 @@
       top: 15px !important;
     }
   }
+
+
+
+/* hamburger css  */
+  .hamburger {
+    display: none;
+    font-size: 30px;
+    cursor: pointer;
+    color: white;
+  }
+
+  @media (max-width: 1000px) {
+    .menu-links {
+      display: none;
+      flex-direction: column;
+    }
+
+    .hamburger {
+      display: flex;
+      align-items: center;
+    }
+  }

@@ -50,7 +50,12 @@
                                         </a>
                                     </li>
                                 </ul>
-                                <ul class="menu-links" style="" >
+                                <!-- <div class="hamburger" ><i class="fa-solid fa-bars"></i></div> -->
+                                <div class="hamburger">&#9776;</div>
+                                
+
+                                <ul class="menu-links"  >
+                                    
                                     <!-- <div> -->
                                     <!-- <li>
                                         <a href="https://convocation.nsut.ac.in/" style="padding:5px; display:flex; ">
@@ -61,11 +66,15 @@
                                     </li> -->
                                     <!-- </div> -->
                                     <!-- <div> -->
-                                    <li>
+                                    <li id="dynamicli" style=" justify-content: space-between; " >
                                         <a class="main" href="https://convocation.nsut.ac.in/">
                                             <i class="fa fa-home"></i>
                                         </a>
+                                        <div class="cross" style="display: none; color:black ; cursor: pointer; font-weight:700 ; align-items: center; ">&#10005;</div> <!-- Cross icon -->
                                     </li>
+                                    <!-- <li> -->
+                                        
+                                    <!-- </li> -->
                                     <li>
                                         <a class="main" href="underconstruction.php">Awardees</a>
                                     </li>
@@ -155,3 +164,68 @@
     </div>
 </header>
 
+
+
+<script>
+
+
+document.addEventListener('DOMContentLoaded', function() {
+  const menuLinks = document.querySelector('.menu-links');
+  const hamburger = document.querySelector('.hamburger');
+  const cross =document.querySelector('.cross');
+  const dynamicli =document.getElementById('dynamicli');
+
+  function checkScreenWidth() {
+    if (window.innerWidth < 1000) {
+      menuLinks.style.display = 'none';
+      cross.style.display='none';
+      hamburger.style.display='flex';
+      dynamicli.style.display='flex';
+    } else {
+      menuLinks.style.display = 'flex';  // or whatever the original display property was
+      cross.style.display='none';
+      hamburger.style.display='none';
+      dynamicli.style.display='';
+    }
+  }
+
+  // Run on initial load
+  checkScreenWidth();
+
+  // Add event listener to window resize
+  window.addEventListener('resize', checkScreenWidth);
+
+  // Add click event listener to the hamburger icon
+    //   hamburger.addEventListener('click', function() {
+    //     if (menuLinks.style.display === 'none' || menuLinks.style.display === '') {
+    //       menuLinks.style.display = 'flex';  // Show the menu-links div
+    //     } else {
+    //       menuLinks.style.display = 'none';  // Hide the menu-links div
+    //     }
+    //   });
+    // });
+
+
+    hamburger.addEventListener('click', function(){
+        menuLinks.style.display='block';
+        hamburger.style.display='none';
+        cross.style.display='flex';
+    });
+
+    cross.addEventListener('click', function(){
+        menuLinks.style.display='none';
+        cross.style.display ='none';
+        hamburger.style.display='block';
+    });
+
+});
+
+//   document.addEventListener('DOMContentLoaded', function() {
+//     const hamburger = document.querySelector('.hamburger');
+//     const menuLinks = document.querySelector('.menu-links');
+
+//     hamburger.addEventListener('click', function() {
+//       menuLinks.style.display = menuLinks.style.display === 'flex' ? 'none' : 'flex';
+//     });
+//   });
+</script>

@@ -75,7 +75,7 @@ page-title -->
 
             <div style="display: flex; ">
             <p>4. &nbsp;&nbsp;</p>
-              <p>All graduands will be given a sash or stole which they must wear for the Convocation ceremony and Degree distribution. Please bring lapel pins to fix the sash in place.</p></div>
+              <p> All graduands will be given a sash or stole which they must wear for the Convocation ceremony and Degree distribution. Please bring lapel pins to fix the sash in place.</p></div>
             
             
             
