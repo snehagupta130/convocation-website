@@ -21,7 +21,7 @@
                 <div class="scrolling-announcement" style = "background color: #a7161b">
                     <ul style = "background color: #a7161b">
                         <li style = "background color: black">
-                            oiuytfghjkoytrfghiuytrdfghiij
+                            Online Registration is live. 
                         </li>
                     </ul>
                 </div>
