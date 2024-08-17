@@ -449,7 +449,7 @@ iframe {
     font-size: 12px !important;
     margin-right: 10px !important;
     padding: 10px 10px !important;
-    margin-top: 10px !important;
+    margin-top: 2px !important;
   }
 
   .menu-links a.main:hover,
@@ -493,11 +493,22 @@ iframe {
   white-space: nowrap;
   box-sizing: border-box;
   background: #a7161b; /* Change to your desired background color */
-  padding: 10px 0; /* Adjust padding as needed */
+  margin-top: 10px;
+  padding: 10px 5px 0 0; /* Adjust padding as needed */
   width: 60%; /* Adjust width to be responsive */
   max-width: 100%;
-  display: flex;
+  /* display: flex; */
   justify-content: center;
+}
+
+.logo {
+  height: 50px !important;
+  position: relative !important;
+  top: 2px;
+  left: 0 !important;
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+  display: block !important;
 }
 
 .scrolling-announcement ul {
@@ -525,7 +536,7 @@ iframe {
 
 @media (max-width: 768px) {
   .scrolling-announcement {
-    width: 80%; /* Adjust width for smaller screens */
+    width: 50%; /* Adjust width for smaller screens */
   }
 
   .scrolling-announcement li {
@@ -533,7 +544,43 @@ iframe {
     padding-right: 20px; /* Adjust space between items for smaller screens */
   }
 }
-
+@media only screen and (max-width: 700px) {
+  h1 {
+    font-size: 1rem !important;
+    max-width: 150px;
+    /* display: none !important; Adding !important to override any inline styles */
+  }
+  /* .topbar-social {
+    display: none;
+  } */
+}
+@media only screen and (max-width: 710px) {
+  .topbar-social {
+    display: none;
+  }
+}
+@media only screen and (min-width: 420px) {
+  h1 {
+    padding: 15px;
+    margin: 15px;
+  }
+}
+h1 {
+  margin-top: 1px !important;
+  font-family: sans-serif;
+  font-size: 1.5rem;
+  color: white;
+  padding: 1rem;
+  padding-left: 5px;
+  max-width: 100%;
+  line-height: 20px;
+}
+@media only screen and (max-width: 409px) {
+  h1 {
+    font-size: 1rem !important;
+    /* display: none !important; Adding !important to override any inline styles */
+  }
+}
 .topbar-social-wrapper {
   position: relative;
   width: 100%;
@@ -566,7 +613,7 @@ iframe {
 
   .topbar-social {
     position: static;
-    margin-top: 10px;
+    margin-top: 2px;
   }
 
   .scrolling-announcement {
@@ -574,12 +621,13 @@ iframe {
     text-align: center;
   }
 
-  .topbar-social ul {
+  /* .topbar-social ul {
     display: flex;
     justify-content: center;
-  }
+  } */
 
   .topbar-social ul li {
+    display: block;
     margin-left: 5px;
   }
 }

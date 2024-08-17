@@ -28,11 +28,13 @@
                 <!-- <div class="col-lg-6 col-md-6 col-12" style="width: fit-content "> -->
                 <div class=" " style="width: fit-content ">
                     <div class="topbar-social text-center text-md-right" style = "position:absolute; top:10px; right: 10px;">
-                        <ul>
+                        <ul style="margin-top: 2px">
                             <li>Convocation 2024 : 4th October 2024</li>
-                            <li><a href="https://x.com/NSUT_OFFICIAL?t=icb5M1a5S3V6pZAQu47nQw&s=08"><span class="fa fa-twitter"></span></a></li>
-                            <li><a href="https://www.linkedin.com/company/officialnsut/"><span class="fa fa-linkedin"></span></a></li>
-                            <li><a href="https://www.facebook.com/nsutofficial"><span class="fa fa-facebook"></span></a></li>
+                            <div style="display:flex; position:absolute; right:10px">
+                                <li><a href="https://x.com/NSUT_OFFICIAL?t=icb5M1a5S3V6pZAQu47nQw&s=08"><span class="fa fa-twitter"></span></a></li>
+                                <li><a href="https://www.linkedin.com/company/officialnsut/"><span class="fa fa-linkedin"></span></a></li>
+                                <li><a href="https://www.facebook.com/nsutofficial"><span class="fa fa-facebook"></span></a></li>
+                            </div>
                         </ul>
                     </div>
                 </div>
@@ -53,8 +55,8 @@
                                 <ul class="menu-logo">
                                     <li>
                                         <a href="https://convocation.nsut.ac.in/" style="padding:5px; display:flex; ">
-                                            <img src="./asset/images/logo.png" style="height: 50px !important" alt="Netaji Subhas University of Technology"/>
-                                            <h1 style="font-family: sans-serif; font-size: 12px; color:white; padding: 5px; padding-left: 5px; " >NETAJI SUBHAS UNIVERSITY OF TECHNOLOGY</h1>
+                                            <img src="./asset/images/logo.png" class = "logo" style="height: 50px !important; top:2px; left: 1px !important; display: block !important; " alt="Netaji Subhas University of Technology"/>
+                                            <h1 style=" white-space: normal; word-wrap: break-word; word-break: keep-all;" >NETAJI SUBHAS UNIVERSITY OF TECHNOLOGY</h1>
 
                                         </a>
                                     </li>
