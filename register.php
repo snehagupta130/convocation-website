@@ -30,7 +30,7 @@ page-title-->
     <div class="row">
      <div class="col-lg-12">
       <div class="page-title-name">
-          <h1>Registration</h1>
+          <h1 style="font-size: 35px !important">Registration</h1>
         </div>
         
         <!-- <ul class="page-breadcrumb">
@@ -50,7 +50,7 @@ page-title -->
 
 <section class="service white-bg page-section-ptb">
   <div class="container">
-    <h5>The Google registration forms for Convocation 2024 have been sent to all graduands via their NSUT email accounts. Please note that it is mandatory to complete and submit the registration forms by August 25th. This submission is a crucial part of the pre-registration process.</h5>
+    <h5 style="font-family: sans-serif !important; font-weight: 300px !important;">The Google registration forms for Convocation 2024 have been sent to all graduands via their NSUT email accounts. Please note that it is mandatory to complete and submit the registration forms by August 25th. This submission is a crucial part of the pre-registration process.</h5>
   </div>
 </section>
 

@@ -30,7 +30,7 @@ page-title-->
     <div class="row">
      <div class="col-lg-12">
       <div class="page-title-name">
-          <h1>Academic Regalia (Dress Code)</h1>
+          <h1 style="font-size: 150% !important;">Academic Regalia (Dress Code)</h1>
         </div>
         
         <!-- <ul class="page-breadcrumb">
@@ -52,7 +52,7 @@ page-title -->
   <div class="container">
 	 
    
-            <div style="display: flex; ">
+            <div style="display: flex; margin-top: 2px !important; padding-top: 2px !important;">
             <p>1. &nbsp;&nbsp;</p>
               <p>Gentlemen graduands are required to come in plain or self-design, white or off-white cotton kurta with collar coupled with pyjama or dhoti</p></div>
 
