@@ -2,11 +2,11 @@
 
     <!-- red announcement scroller -->
     <div class="topbar bg-theme-colored2">
-        <div class="container" style="" >
+        <div class="container" style="margin: 0px;" >
             <div class="row" style=" display: flex; justify-content: space-between;" >
                 <!-- <div class="col-lg-6 col-md-6 col-12" style="width: fit-content "> -->
                 <!-- <div class="" style="width: fit-content "> -->
-                    <div class="topbar-call text-center text-md-left" style = "position:absolute; top:14px; left: 23px; width: fit-content">
+                    <div class="topbar-call text-center text-md-left" style = "position:absolute; top:10px; left: 10px; width: fit-content; ">
                         <ul>
                             <li>
                                 <a href="http://www.nsut.ac.in/">
@@ -18,26 +18,26 @@
                         </ul>
                     </div>
                 <!-- </div> -->
-                <div class="scrolling-announcement" style = "background-color: #a7161b">
-                    <a href="announcement.php" >
-                    <ul style = "background-color: #a7161b" >
-                        <li >
-                        Congratulations! We are proud to announce NSUT Convocation 2024 on 4th October, 2024 in celebration of the significant milestone you have achieved on completing your Degree.
+                <div class="scrolling-announcement" style = "background-color: #a7161b ;  ">
+                    <ul style = "background-color: #a7161b">
+                        <li style = "background-color: black">
+                            Online Registration is live. 
                         </li>
                     </ul>
-                    </a>
                 </div>
                 <!-- <div class="col-lg-6 col-md-6 col-12" style="width: fit-content "> -->
-                <!-- <div class=" " style="width: fit-content "> -->
-                    <div class="topbar-social text-center text-md-right" style = "position:absolute; top:14px; right: 25px; width: fit-content">
-                        <ul>
+                <div class=" " style="width: fit-content ">
+                    <div class="topbar-social text-center text-md-right" style = "position:absolute; top:10px; right: 10px;">
+                        <ul style="margin-top: 2px">
                             <li>Convocation 2024 : 4th October 2024</li>
-                            <li><a href="https://x.com/NSUT_OFFICIAL?t=icb5M1a5S3V6pZAQu47nQw&s=08"><span class="fa fa-twitter"></span></a></li>
-                            <li><a href="https://www.linkedin.com/company/officialnsut/"><span class="fa fa-linkedin"></span></a></li>
-                            <li><a href="https://www.facebook.com/nsutofficial"><span class="fa fa-facebook"></span></a></li>
+                            <div style="display:flex; position:absolute; right:10px">
+                                <li><a href="https://x.com/NSUT_OFFICIAL?t=icb5M1a5S3V6pZAQu47nQw&s=08"><span class="fa fa-twitter"></span></a></li>
+                                <li><a href="https://www.linkedin.com/company/officialnsut/"><span class="fa fa-linkedin"></span></a></li>
+                                <li><a href="https://www.facebook.com/nsutofficial"><span class="fa fa-facebook"></span></a></li>
+                            </div>
                         </ul>
                     </div>
-                <!-- </div> -->
+                </div>
             </div>
         </div>
     </div>
@@ -54,9 +54,9 @@
                                 <!-- navbar  -->
                                 <ul class="menu-logo">
                                     <li>
-                                        <a class="menu-logo-resp" href="https://convocation.nsut.ac.in/" style="padding:5px; display:flex; ">
-                                            <img src="./asset/images/logo.png" style="height: 50px !important" alt="Netaji Subhas University of Technology"/>
-                                            <h1 style="font-family: sans-serif; font-size: 12px; color:white; padding: 5px; padding-left: 5px; position: relative; top: 10px; " >NETAJI SUBHAS UNIVERSITY OF TECHNOLOGY</h1>
+                                        <a href="https://convocation.nsut.ac.in/" style="padding:5px; display:flex; ">
+                                            <img src="./asset/images/logo.png" class = "logo" style="height: 50px !important; top:2px; left: 1px !important; display: block !important; " alt="Netaji Subhas University of Technology"/>
+                                            <h1 style=" white-space: normal; word-wrap: break-word; word-break: keep-all;" >NETAJI SUBHAS UNIVERSITY OF TECHNOLOGY</h1>
 
                                         </a>
                                     </li>
@@ -128,7 +128,7 @@
                                         display: block;
                                         }
 
-                                        .dropdown:hover .dropbtn {}
+                                        /* .dropdown:hover .dropbtn {} */
                                     </style>
 
 
@@ -136,7 +136,7 @@
                                         <a class="main" href="register.php">Registration</a>
                                     </li>
                                     <li>
-                                        <a class="main" href="announcement.php">Announcements </a> 
+                                        <a class="main" href="underconstruction.php">Announcements </a> 
                                     </li>
                                     <li>
                                         <a class="main" href="underconstruction.php">Photo Gallery </a> 

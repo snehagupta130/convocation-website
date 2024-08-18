@@ -493,10 +493,11 @@ iframe {
   white-space: nowrap;
   box-sizing: border-box;
   background: #a7161b; /* Change to your desired background color */
-  margin-top: 10px;
-  padding: 10px 5px 0 0; /* Adjust padding as needed */
+  /* margin-top: 10px; */
+  padding: 11px; /* Adjust padding as needed */
   width: 60%; /* Adjust width to be responsive */
   max-width: 100%;
+  margin-right: 24rem;
   /* display: flex; */
   justify-content: center;
 }
@@ -515,7 +516,7 @@ iframe {
   display: inline-block;
   padding: 0;
   margin: 0;
-  animation: scroll 10s linear infinite;
+  animation: scroll 23s linear infinite;
 }
 
 .scrolling-announcement li {
@@ -629,5 +630,27 @@ h1 {
   .topbar-social ul li {
     display: block;
     margin-left: 5px;
+  }
+}
+
+
+@media (max-width: 900px){
+  .menu-links{
+    position: absolute;
+  }
+  .menu-logo-resp{
+    position: static;
+  }
+}
+
+@media (max-width: 1000px){
+  .topbar-call{
+    display: none;
+  }
+  .topbar-social{
+    display: none;
+  }
+  .scrolling-announcement{
+    width: 100%;
   }
 }
