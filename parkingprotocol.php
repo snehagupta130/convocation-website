@@ -30,7 +30,7 @@ page-title-->
     <div class="row">
      <div class="col-lg-12">
       <div class="page-title-name">
-          <h1>Parking</h1>
+          <h1 style="font-size: 35px;" >Parking</h1>
         </div>
         
         <!-- <ul class="page-breadcrumb">
@@ -49,12 +49,25 @@ page-title -->
 
 
 <section class="service white-bg page-section-ptb">
-  <div class="container">
+  <div class="container" style="font-size: large;" >
 	 
    
             <div style="display: flex; ">
             <p>1. &nbsp;&nbsp;</p>
-              <p>Vehicles shall be parked in assigned parking areas only. Please follow the signages. </p></div>
+              <p>
+              The campus has very limited parking space. We strongly advise all to refrain from bringing private vehicles and instead, arrive by public transport or hired cars.        
+                  </p></div>
+
+              <div style="display: flex; ">
+            <p>2. &nbsp;&nbsp;</p>
+              <p>
+              Limited number of vehicles shall be parked in designated parking areas strictly on a first come first serve basis. If private vehicles are unavoidable, then please arrive early.  
+                          </p></div>
+
+              <div style="display: flex; ">
+            <p>3. &nbsp;&nbsp;</p>
+              <p>
+              Please follow the signages and instructions of security personnel and volunteers to proceed to parking slots and to move around.              </p></div>
             
             
             

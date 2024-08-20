@@ -30,7 +30,7 @@ page-title-->
     <div class="row">
      <div class="col-lg-12">
       <div class="page-title-name">
-          <h1>Photography</h1>
+          <h1 style="font-size: 35px;" >Photography</h1>
         </div>
         
         <!-- <ul class="page-breadcrumb">
@@ -49,20 +49,23 @@ page-title -->
 
 
 <section class="service white-bg page-section-ptb">
-  <div class="container">
+  <div class="container" style="font-size: large;" >
 	 
    
             <div style="display: flex; ">
             <p>1. &nbsp;&nbsp;</p>
-              <p>Personal photography and selfies are prohibited inside the main venue and in the Halls where degrees will be distributed.</p></div>
+              <p>
+              Personal photography and selfies are prohibited inside the Main Venue and in the Halls where degrees will be distributed. 
+                          </p></div>
 
             <div style="display: flex; ">
-            <p>2. &nbsp;&nbsp;</p>
+            <p>2. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
               <p>The official photographers shall carry out photography and videography during the Convocation ceremony and during Degree distribution at various venues. These will be made available online very soon after the ceremony free of cost.</p></div>
 
             <div style="display: flex; ">
             <p>3. &nbsp;&nbsp;</p>
-              <p>Selfie points will be situated at the entrance to the administrative block with backdrop for personal photographs. </p></div>
+              <p>
+              Selfie points will be situated at designated spaces with backdrops for personal photographs.               </p></div>
             
             
             

@@ -30,7 +30,7 @@ page-title-->
     <div class="row">
      <div class="col-lg-12">
       <div class="page-title-name">
-          <h1 style="font-size: 150% !important;">Announcements</h1>
+          <h1 style="font-size: 35px !important;">Announcements</h1>
         </div>
         
         <!-- <ul class="page-breadcrumb">
@@ -49,16 +49,18 @@ page-title -->
 
 
 <section class="service white-bg page-section-ptb">
-  <div class="container">
-	 
+  <div class="container" style="font-size: large ; " >
+	 <ol type="number" >
    
-            <div style="display: flex; margin-top: 2px !important; padding-top: 2px !important;">
-            <p>1. &nbsp;&nbsp;</p>
-              <p>Congratulations! We are proud to announce NSUT Convocation 2024 on 4th October, 2024 in celebration of the significant milestone you have achieved on completing your Degree.</p></div>
+            <!-- <div style="display: flex; margin-top: 2px !important; padding-top: 2px !important;  "> -->
+            <!-- <p>1. &nbsp;&nbsp;</p> -->
+              <li style="padding: 0 0 1rem 0; " >Congratulations! We are proud to announce NSUT Convocation 2024 on 4th October, 2024 in celebration of the significant milestone you have achieved on completing your Degree.</li>
+            <!-- </div> -->
 
-            <div style="display: flex; ">
-            <p>2. &nbsp;&nbsp;</p>
-              <p>In this convocation ceremony, each student will be conferred his/her degree ceremonially on-stage. We look forward to celebrating with you!</p></div>
+            <!-- <div style="display: flex; "> -->
+            <!-- <p>2. &nbsp;&nbsp;</p> -->
+              <li style="padding: 1rem 0 1rem 0; " >In this convocation ceremony, each student will be conferred his/her degree ceremonially on-stage. We look forward to celebrating with you!</li>
+            <!-- </div> -->
 
               <!-- <div style="padding-inline: 30px; display: flex; ">
               <p>2.1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -69,16 +71,17 @@ page-title -->
               <p>2.2 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
               <p>Plain or self-design, off-white cotton or silk sari with plain border and blouse of matching color</p></div> -->
 
-            <div style="display: flex; ">
-            <p>3. &nbsp;&nbsp;</p>
-              <p>For more information, Stay Tuned!!</p></div>
+            <!-- <div style="display: flex; "> -->
+            <!-- <p>3. &nbsp;&nbsp;</p> -->
+              <li style="padding: 1rem 0 0 0; " >For more information, Stay Tuned!!</li>
+            <!-- </div> -->
 
             <!-- <div style="display: flex; ">
             <p>4. &nbsp;&nbsp;</p>
               <p> All graduands will be given a sash or stole which they must wear for the Convocation ceremony and Degree distribution. Please bring lapel pins to fix the sash in place.</p></div> -->
             
             
-            
+            </ol>
               
         
         

@@ -35,7 +35,7 @@
 
   /*background-color: #84ba3f;*/ }
   @media screen and (max-width:991px) {
-    .mega-menu .menu-logo > li > a { line-height: normal; padding-top: 16px; padding-bottom: 16px; position: relative; z-index: 10; width: auto; }
+    .mega-menu .menu-logo > li > a { line-height: normal; padding-top: 16px; padding-bottom: 16px; z-index: 10; width: auto; }
   }
   .mega-menu .menu-logo > li > a i.fa {  /*--------------------------------------- LOGO ICON */
   padding: 0; display: inline-block; font-size: 1.25em; position: absolute; top: 0; left: 20px; bottom: 0; margin: auto 0; line-height: 50px; }

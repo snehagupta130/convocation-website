@@ -48,9 +48,10 @@ page-title -->
 
 
 
-<section class="service white-bg page-section-ptb">
+<!-- <div> -->
+<section class="service white-bg page-section-ptb" style="margin-bottom: 6%; min-height: 100%; box-sizing: border-box; " >
   <div class="container">
-    <h5 style="font-family: sans-serif !important; font-weight: 300px !important;">The Google registration forms for Convocation 2024 have been sent to all graduands via their NSUT email accounts. Please note that it is mandatory to complete and submit the registration forms by August 25th. This submission is a crucial part of the pre-registration process.</h5>
+    <h5 style="font-family: sans-serif !important; font-weight: 100 !important; line-height: 3rem; ">The Google registration forms for Convocation 2024 have been sent to all graduands via their NSUT email accounts. Please note that it is mandatory to complete and submit the registration forms by August 25th. This submission is a crucial part of the pre-registration process.</h5>
   </div>
 </section>
 
@@ -58,6 +59,6 @@ page-title -->
 <!--=================================footer -->
   
  <?php include("footer.php"); ?>
-
+<!-- </div> -->
 </body>
 </html>

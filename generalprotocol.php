@@ -1,96 +1,133 @@
-
 <!-- Header -->
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-<?php include('head.php'); ?> 
+  <?php include('head.php'); ?>
 </head>
 
 <body>
 
-<div class="wrapper">
+  <div class="wrapper">
 
-<!--=================================
- preloader -->
- 
-
-<!--=================================
+    <!--=================================
  preloader -->
 
-<!--=================================
+
+    <!--=================================
+ preloader -->
+
+    <!--=================================
  header -->
-<?php include('header.php'); ?> 
-<!--=================================
+    <?php include('header.php'); ?>
+    <!--=================================
  header -->
-<!--=================================
+    <!--=================================
 page-title-->
 
-<section class="page-title small gray-bg">
-  <div class="container">
-    <div class="row">
-     <div class="col-lg-12">
-      <div class="page-title-name">
-          <h1>General Instructions</h1>
-        </div>
-        
-        <!-- <ul class="page-breadcrumb">
-          <li><a href="https://convocation.iitd.ac.in/2023"><i class="fa fa-home"></i> Home</a> <i class="fa fa-angle-double-right"></i></li>
-		  <li><span>Contact Us</span></li>
-       </ul> -->
-     </div>
-    </div>
-  </div>
-</section>
+    <section class="page-title small gray-bg">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="page-title-name">
+              <h1 style="font-size: 35px;">General Instructions</h1>
+            </div>
 
-<!--=================================
+            <!-- <ul class="page-breadcrumb">
+          <<li><a href="https://convocation.iitd.ac.in/2023"><i class="fa fa-home"></i> Home</a> <i class="fa fa-angle-double-right"></i></<li>
+		  <<li><span>Contact Us</span></<li>
+       </ul> -->
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!--=================================
 page-title -->
 
 
 
 
-<section class="service white-bg page-section-ptb">
-  <div class="container">
-	 
-   
-          <div style="display: flex; ">
-            <p>1. &nbsp;&nbsp;&nbsp;</p>
-              <p> Convocation 2024 will be held at NSUT on the date decided by the Vice Chancellor as per convenience of the Chief Guest. It is being planned for during the first week of October 2024</p></div>
-          <div style="display: flex; ">
-            <p>2. &nbsp;&nbsp;</p>
-              <p>The Convocation will be organized in two parts:</p></div>
-            
-            <div style="padding-inline: 30px; display: flex; ">
-              <p>2.1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-              <p> The Convocation Ceremony will be conducted from 10:00 am till 1:30 pm  in the main venue in the presence of Honorable Chief Guest, Honorable Chancellor, Honorable Vice Chancellor and Guests of Honor to confer gold medals and degrees to graduating Ph.D. scholars</p></div>
+    <section class="service white-bg page-section-ptb">
+      <div class="container" style="font-size: large;">
+        <ol>
 
-            
-            <div style="padding-inline: 30px; display: flex; ">
-              <p>2.2 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-              <p> Post lunch, from 3:30 p.m. onward, each Department will confer degrees to graduands individually in separate venues in the presence of Faculty. The venues include the main venue, Admin block auditorium, A.P.J. Abdul Kalam Halls 1 to 11 and Smart Class Rooms.  The allocation of the venues to various departments/ programs of study will be given in the website before the Convocation for information.</p></div>
+          <!-- <div style="display: flex; "> -->
+          <!-- <li>1. &nbsp;&nbsp;&nbsp;</p> -->
+          <li style="padding-bottom: 2rem;">
+            The second convocation of N.S.U.T., Convocation 2024, will be held on 4th October, 2024 in the campus. It is an auspicious and solemn ceremony, in which decorum must be maintained at all times. Please read and follow all the instructions given.
 
-
-          <div style="display: flex; ">
-            <p>3. &nbsp;&nbsp;</p>
-              <p>A mandatory rehearsal will be arranged in the campus before the main Convocation. All graduands must arrive for the rehearsal at 9:00 am on the rehearsal day at 9:00 am sharp.</p></div>
-
-          <div style="display: flex; ">
-            <p>4. &nbsp;&nbsp;</p>
-              <p>The awards and degrees will be received from dignitaries by the graduands themselves. No representative will be allowed to receive the degree or award on behalf of any graduand during the Convocation.</p></div>
-            
-            
-        
-        
-		
-
-		
-     
-  </div>
-</section>
+          </li>
+          <!-- </div> -->
+          <!-- <div style="display: flex; "> -->
+          <!-- <li>2. &nbsp;&nbsp;</p> -->
+          <li style="padding-bottom: 1rem;">The Convocation will be organized in two parts: 
+            <ul>
+              <li style="padding-top: 0.5rem; padding-bottom: 0.5rem;"> 2.1. <span><b>Awards Ceremony:</b></span> The Awards Ceremony will be conducted from 10:00 am till 1:30 pm in the Moksha Ground Marquee (Main venue) to confer Chancellor’s gold medals, Vice Chancellor’s gold medals and Ph.D. degrees.
+              </li>
+              <!-- </div> -->
 
 
-<!--=================================footer -->
-  
- <?php include("footer.php"); ?>
+              <!-- <div style="padding-inline: 30px; display: flex; "> -->
+              <!-- <li>2.2 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p> -->
+              <li style="padding-bottom: 1rem;"> 2.2. <span><b>Degree distribution:</b></span>The Awards Ceremony will be conducted from 10:00 am till 1:30 pm in the Moksha Ground Marquee (Main venue) to confer Chancellor’s gold medals, Vice Chancellor’s gold medals and Ph.D. degrees.
+              </li>
+              <!-- </div> -->
+            </ul>
+          </li>
+          <!-- </div> -->
+
+          <!-- <div style="padding-inline: 30px; display: flex; "> -->
+          <!-- <li>2.1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p> -->
+
+
+
+          <!-- <div style="display: flex; "> -->
+          <!-- <li>3. &nbsp;&nbsp;</p> -->
+          <li style="padding-bottom: 2rem;">
+            A 
+            <span><b>mandatory rehearsal</b></span> will be arranged in the campus one day before the main Convocation. All award winners, UG, PG and PhD graduands must arrive for the rehearsal at 10:00 am sharp.
+          </li>
+          <!-- </div> -->
+
+          <!-- <div style="display: flex; "> -->
+          <!-- <li>4. &nbsp;&nbsp;</p> -->
+          <li style="padding-bottom: 1rem;">Please note that on the day of the convocation:
+            <ul>
+              <li style="padding-top: 0.5rem; padding-bottom: 0.5rem;"> 4.1. No parent/representative will be allowed to receive the degree or award on behalf of any graduand. 
+
+              </li>
+              <!-- </div> -->
+
+
+              <!-- <div style="padding-inline: 30px; display: flex; "> -->
+              <!-- <li>2.2 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p> -->
+              <li style="padding-bottom: 1rem;">4.2 No student will be allowed to take their degree or award directly, either from the academic section or from their Departments.
+              </li>
+              <!-- </div> -->
+            </ul>
+          </li>
+
+
+          <li style="padding-bottom: 2rem;">All graduands will have to register online through the Google form links emailed to them. They must also register physically on the day of the convocation at the registration desks which will be open from 7 am till 10:00 am. 
+          </li>
+          <!-- </div> -->
+
+
+        </ol>
+
+
+
+
+
+      </div>
+    </section>
+
+
+    <!--=================================footer -->
+
+    <?php include("footer.php"); ?>
 
 </body>
+
 </html>

@@ -176,7 +176,7 @@
     }
 </style>
 
-<footer class="footer page-section-pt black-bg">
+<footer class="footer page-section-pt black-bg" style="padding: 40px 0 ; clear: both;  " >
     <div class="container">
         <div class="row">
             <div class="col-lg-4 col-md-6 col-sm-6 sm-mb-30">
