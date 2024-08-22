@@ -21,8 +21,8 @@
                 <div class="scrolling-announcement" style = "background-color: #a7161b">
                     <a href="announcement.php" >
                     <ul style = "background-color: #a7161b" >
-                        <li >
-                        Congratulations! We are proud to announce NSUT Convocation 2024 on 4th October, 2024 in celebration of the significant milestone you have achieved on completing your Degree.
+                        <li style = "font-size: 18px !important">
+                        Congratulations to the batch of 2024! We are proud to announce NSUT Convocation 2024 on 4th October, 2024 in celebration of the significant milestone you have achieved on completing your Degree.
                         </li>
                     </ul>
                     </a>
