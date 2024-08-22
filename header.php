@@ -56,7 +56,9 @@
                                     <li>
                                         <a class="menu-logo-resp" href="https://convocation.nsut.ac.in/" style="padding:5px; display:flex;  position: static; ">
                                             <img src="./asset/images/logo.png" style="height: 50px !important" alt="Netaji Subhas University of Technology"/>
-                                            <h1 style="font-family: sans-serif; font-size: 12px; color:white; padding: 5px; padding-left: 5px; position: relative; top: 10px; " >NETAJI SUBHAS UNIVERSITY OF TECHNOLOGY</h1>
+<h1 style="font-family: sans-serif; font-size: 12px; color: white; padding: 5px; padding-left: 5px; position: relative; top: 10px; white-space: normal; word-break: keep-all;">
+    NETAJI SUBHAS UNIVERSITY OF TECHNOLOGY
+</h1>
 
                                         </a>
                                     </li>

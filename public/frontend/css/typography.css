@@ -19,12 +19,11 @@
     General
 *************************/
 body {
-  font-family: "Titillium Web", sans-serif, Source Sans Pro, Helvetica Neue,
-    Helvetica, Arial, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: normal;
   font-style: normal;
   font-size: 16px;
-  color: #626262;
+  color: rgba(0, 0, 0, 0.774);
 }
 a,
 .btn {
@@ -57,7 +56,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Titillium Web", sans-serif, Source Sans Pro, Helvetica Neue,
+  font-family: sans-serif, Source Sans Pro, Helvetica Neue,
     Helvetica, Arial, sans-serif;
   font-weight: normal;
   color: #363636;
@@ -175,7 +174,8 @@ ul {
 p {
   font-weight: normal;
   line-height: 1.4;
-  color: #626262;
+  color: rgba(0, 0, 0, 0.774);
+  font-family:Arial, Helvetica, sans-serif!important;
 }
 hr {
   margin: 0;
@@ -210,7 +210,7 @@ hr.light {
 Page section margin padding
 ****************************/
 .page-section-ptb {
-  padding: 50px 0;
+  padding: 25px 0;
 }
 .page-section-pt {
   padding: 80px 0 0;

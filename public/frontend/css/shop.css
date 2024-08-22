@@ -174,9 +174,9 @@
 /*************************************
               home 07
 **************************************/
-.banner-shop-07 span { font-family:'Great Vibes', cursive; font-size: 130px; line-height: 160px; font-weight: normal;  background: -webkit-linear-gradient(#d0ff90, #8eec07); -webkit-background-clip: text; -webkit-text-fill-color: transparent; position: absolute; left: 0; right: 0; top: -60px; }
-.banner-shop-07 h1 { font-family: 'Tinos', serif; font-size: 120px; line-height: 120px; font-weight: normal;  }
-.banner-shop-07 p { font-family: 'Tinos', serif; font-size: 20px; letter-spacing: 3px; }
+.banner-shop-07 span { font-family:sans-serif, cursive; font-size: 130px; line-height: 160px; font-weight: normal;  background: -webkit-linear-gradient(#d0ff90, #8eec07); -webkit-background-clip: text; -webkit-text-fill-color: transparent; position: absolute; left: 0; right: 0; top: -60px; }
+.banner-shop-07 h1 { font-family: sans-serif, serif; font-size: 120px; line-height: 120px; font-weight: normal;  }
+.banner-shop-07 p { font-family: sans-serif, serif; font-size: 20px; letter-spacing: 3px; }
 
 /*************************************
               home 07

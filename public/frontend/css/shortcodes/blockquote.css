@@ -22,7 +22,7 @@ NOTE: This file contains blockquote CSS.
 
 /*quote*/
 .quote { padding-top: 50px; }
-.quote:before { content: "\201C"; font-family: Georgia, serif; font-size: 100px; font-weight: bold; color: #eee; position: absolute; left: 14px;top: -30px; }
+.quote:before { content: "\201C"; font-family: sans-serif; font-size: 100px; font-weight: bold; color: #eee; position: absolute; left: 14px;top: -30px; }
 
 /*quote right*/
 .blockquote-right.quote:before { left: inherit; right: 14px; }

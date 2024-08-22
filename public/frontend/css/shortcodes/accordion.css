@@ -12,7 +12,7 @@ NOTE: This file contains Accordion CSS.
 .accordion .acd-group .acd-heading:before { font-family: fontawesome; }
 .accordion .acd-group .acd-heading:before { cursor: pointer; position: absolute; top: 6px; right: 20px; display: block; padding: 3px 6px 2px; content: "\f105"; font-size: 22px; line-height: 38px; }
 .accordion .acd-group > .acd-heading > span { margin-right: 15px; }
-.accordion .acd-heading { font-weight: 500; position: relative; padding: 20px 0; color: #353535; line-height: normal; cursor: pointer; background-color: transparent; margin-bottom: 0px; display: block; font-family: 'Montserrat', sans-serif; text-transform: uppercase; border-radius: 3px;  }
+.accordion .acd-heading { font-weight: 500; position: relative; padding: 20px 0; color: #353535; line-height: normal; cursor: pointer; background-color: transparent; margin-bottom: 0px; display: block; font-family: sans-serif; text-transform: uppercase; border-radius: 3px;  }
 .acd-des { padding: 0 20px 20px 0; }
 .accordion .acd-group.acd-active .acd-heading, .accordion .acd-group .acd-heading:hover { color: #84ba3f; }
 .accordion .acd-group.acd-active .acd-heading:before { content: "\f107"; }

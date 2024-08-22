@@ -30,7 +30,7 @@ page-title-->
         <div class="row">
           <div class="col-lg-12">
             <div class="page-title-name">
-              <h1 style="font-size: 35px;">General Instructions</h1>
+              <h1 style="font-size: 3rem !important;" class="heading";>General Instructions</h1>
             </div>
 
             <!-- <ul class="page-breadcrumb">
@@ -49,7 +49,7 @@ page-title -->
 
 
     <section class="service white-bg page-section-ptb">
-      <div class="container" style="font-size: large;">
+      <div class="container" style="font-size: large; color: rgba(0, 0, 0, 0.774); font-family: Ariel;">
         <ol>
 
           <!-- <div style="display: flex; "> -->

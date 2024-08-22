@@ -14,8 +14,11 @@
 
 *
 {
-	font-family: 'Poppins';
+	font-family: Arial, Helvetica, sans-serif;
 }
+
+.page-section-ptb{
+} 
 
 </style>
 

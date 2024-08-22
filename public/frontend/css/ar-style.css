@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'Titillium Web';
+  font-family: sans-serif;
   src: url(../fonts/TitilliumWeb-Regular.ttf);
 }
 body {
@@ -121,7 +121,7 @@ ul.list i {
   height:400px;
   overflow:hidden;
   padding:10px;
-  font-family:Helvetica;
+  font-family:sans-serif;
 }
 .holder .mask {
   position: relative;

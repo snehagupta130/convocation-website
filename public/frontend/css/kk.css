@@ -1,5 +1,5 @@
 @font-face {
-  font-family: "Titillium Web";
+  font-family: "sans-serif";
   src: url(../fonts/TitilliumWeb-Regular.ttf);
 }
 body {
@@ -125,7 +125,7 @@ ul.list i {
   height: 400px;
   overflow: hidden;
   padding: 10px;
-  font-family: Helvetica;
+  font-family: sans-serif;
 }
 .holder .mask {
   position: relative;
@@ -389,7 +389,7 @@ iframe {
   .tp-caption {
     text-shadow: black 2px 2px !important;
     /*font-size: 30px !important;*/
-    font-family: "Titillium Web", sans-serif, Source Sans Pro, Helvetica Neue,
+    font-family: sans-serif, Source Sans Pro, Helvetica Neue,
       Helvetica, Arial, sans-serif !important;
   }
 
@@ -581,6 +581,7 @@ h1 {
     font-size: 1rem !important;
     /* display: none !important; Adding !important to override any inline styles */
   }
+
 }
 .topbar-social-wrapper {
   position: relative;
@@ -633,24 +634,23 @@ h1 {
   }
 }
 
-
-@media (max-width: 900px){
-  .menu-links{
+@media (max-width: 900px) {
+  .menu-links {
     position: absolute;
   }
-  .menu-logo-resp{
+  .menu-logo-resp {
     position: static;
   }
 }
 
-@media (max-width: 1000px){
-  .topbar-call{
+@media (max-width: 1000px) {
+  .topbar-call {
     display: none;
   }
-  .topbar-social{
+  .topbar-social {
     display: none;
   }
-  .scrolling-announcement{
+  .scrolling-announcement {
     width: 100%;
   }
 }

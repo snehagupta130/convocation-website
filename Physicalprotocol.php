@@ -30,7 +30,7 @@ page-title-->
     <div class="row">
      <div class="col-lg-12">
       <div class="page-title-name">
-          <h1 style="font-size: 35px; line-height:4rem; " >Instructions for Physical Registration on Convocation Date</h1>
+          <h1 style="font-size: 3rem !important; line-height: 3rem " >Instructions for Physical Registration on Convocation Date</h1>
         </div>
         
         <!-- <ul class="page-breadcrumb">

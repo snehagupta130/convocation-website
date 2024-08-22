@@ -4,6 +4,12 @@
 <html lang="en">
 <head>
 <?php include('head.php'); ?> 
+<style>
+  .container
+  {
+    color:black;
+  }
+  </style>
 </head>
 
 <body>
@@ -49,10 +55,10 @@ page-title -->
 
 
 <section class="service white-bg page-section-ptb">
-  <div class="container" style="font-size: large;" >
+  <div class="container" style="font-size: large; color:black !important;" >
 	 
    
-            <div style="display: flex; ">
+            <div style="display: flex; color:black;">
             <p>1. &nbsp;&nbsp;</p>
               <p>Convocation Ceremony is a solemn occasion requiring complete decorum.</p></div>
 
