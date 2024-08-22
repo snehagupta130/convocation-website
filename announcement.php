@@ -30,7 +30,7 @@ page-title-->
     <div class="row">
      <div class="col-lg-12">
       <div class="page-title-name">
-          <h1 style="font-size: 35px !important;">Announcements</h1>
+          <h1 style="font-size: 3rem !important; line-height: 3rem">Announcements</h1>
         </div>
         
         <!-- <ul class="page-breadcrumb">
@@ -54,7 +54,7 @@ page-title -->
    
             <!-- <div style="display: flex; margin-top: 2px !important; padding-top: 2px !important;  "> -->
             <!-- <p>1. &nbsp;&nbsp;</p> -->
-              <li style="padding: 0 0 1rem 0; " >Congratulations! We are proud to announce NSUT Convocation 2024 on 4th October, 2024 in celebration of the significant milestone you have achieved on completing your Degree.</li>
+              <li style="padding: 0 0 1rem 0; " >Congratulations to the batch of 2024! We are proud to announce NSUT Convocation 2024 on 4th October, 2024 in celebration of the significant milestone you have achieved on completing your Degree.</li>
             <!-- </div> -->
 
             <!-- <div style="display: flex; "> -->
