@@ -20,10 +20,12 @@
                 <!-- </div> -->
                 <div class="scrolling-announcement" style = "background-color: #a7161b">
                     <a href="announcement.php" >
-                    <ul style = "background-color: #a7161b" >
-                        <li style = "font-size: 18px !important">
-                        Congratulations to the batch of 2024! We are proud to announce NSUT Convocation 2024 on 4th October, 2024 in celebration of the significant milestone you have achieved on completing your Degree.
+                    <ul style = "background-color: #a7161b; font-size:18px !important" >
+                        <li>
+                        Congratulations Batch of 2024! We are proud to announce "the 2nd" Convocation of NSUT on the 4th of October, 2024 in celebration of ...........
                         </li>
+                        <li>Online registration has now stopped. Thank you for your enthusiastic response! We look forward to welcoming our graduands on Convocation Day!  </li>
+                        <li>Physical registration of only those students who have registered online will start at 7:30 am and close at 10:00 am on the day of convocation 4th October, 2024 . Please see Announcements for further instructions......</li>
                     </ul>
                     </a>
                 </div>
