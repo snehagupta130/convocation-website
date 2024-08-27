@@ -51,7 +51,7 @@ page-title -->
 <!-- <div> -->
 <section class="service white-bg page-section-ptb" style="margin-bottom: 6%; min-height: 100%; box-sizing: border-box; " >
   <div class="container">
-    <h5 style="font-family: sans-serif !important; font-weight: 100 !important; line-height: 3rem; ">The Google registration forms for Convocation 2024 have been sent to all graduands via their NSUT email accounts. Please note that it is mandatory to complete and submit the registration forms by August 25th. This submission is a crucial part of the pre-registration process.</h5>
+    <h5 style="font-family: sans-serif !important; font-weight: 100 !important; line-height: 3rem; ">Online registration has now stopped.  Physical registration of only those students who have registered online will start at 7:30 am and close at 10:00 am on the day of convocation 4th October, 2024 . Please see <a href="announcement.php" style="color:#a7161b;">Announcements</a> for further instructions.</h5>
   </div>
 </section>
 
