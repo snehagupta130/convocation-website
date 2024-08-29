@@ -53,7 +53,7 @@ page-title -->
 	 
    
             <div style="display: flex; ">
-            <p>1. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+            <!-- <p>1. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
               <p>Online registration is mandatory. Graduands will be allowed to participate in the Convocation subject to confirming his / her participation through online registration. Note that this is apart from the pre-registration process whose purpose was to get an estimate of the number of attendees.  
               </p></div>
 
@@ -67,7 +67,7 @@ page-title -->
 
             <div style="display: flex; ">
             <p>4. &nbsp;&nbsp;</p>
-              <p>Each graduand can bring a maximum of two accompanying family members/ guests at the convocation ceremony.</p></div>
+              <p>Each graduand can bring a maximum of two accompanying family members/ guests at the convocation ceremony.</p></div> -->
 
             <!-- <div style="display: flex; ">
             <p>5. &nbsp;&nbsp;</p>
@@ -81,6 +81,11 @@ page-title -->
               <p>7. &nbsp;&nbsp;</p>
               <p>Only those who have completed online registration will be eligible for Physical registration.</p>
             </div> -->
+            <p>
+              Online registration has now stopped.  
+              <b>Physical registration of only those students who have registered online will start at 7:30 am and close at 10:00 am on the day of convocation 4th October, 2024.</b>
+              Please see <a href = "announcement.php">Announcements</a> for further instructions.
+            </p>
             
               
         
