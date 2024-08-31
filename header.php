@@ -19,7 +19,7 @@
                     </div>
                 <!-- </div> -->
                  
-                <div class="scrolling-announcement" style="background-color: #a7161b; overflow: hidden; white-space: nowrap;">
+                <div class="scrolling-announcement" style="background-color: #a7161b;">
     <ul class="announcement-list" style="background-color: #a7161b; font-size: 18px !important; display: inline-block; padding-left: 100%;">
         <li style="font-size: 2rem">Congratulations Batch of 2024! We are proud to announce the 2nd Convocation of NSUT on the 4th of October, 2024. </li>
         <li style="font-size: 2rem; opacity: 0">Congratulations Batch of 2024! We are proud to announce the 2nd </li>
@@ -187,7 +187,10 @@
 
 <script>
 
-
+// document.addEventListener("DOMContentLoaded", function() {
+//     var announcementList = document.querySelector('.announcement-list');
+//     announcementList.style.animation = "scroll 20s linear infinite";
+// });
 document.addEventListener('DOMContentLoaded', function() {
   const menuLinks = document.querySelector('.menu-links');
   const hamburger = document.querySelector('.hamburger');
