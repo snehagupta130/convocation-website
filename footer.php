@@ -28,6 +28,8 @@
         list-style: none;
         padding: 0;
         display: flex;
+        justify-content: center;
+        align-items: center;
         gap: 10px;
     }
 
@@ -44,7 +46,7 @@
 
     .footer-hedding h6 {
         font-size: 16px;
-        margin-bottom: 20px;
+        /* margin-bottom: 20px; */
         text-transform: uppercase;
     }
 
@@ -73,7 +75,7 @@
     }
 
     .addresss-info li {
-        margin-bottom: 15px;
+        /* margin-bottom: 15px; */
         display: flex;
         align-items: center;
     }
@@ -148,7 +150,7 @@
 
         .footer-useful-link ul li,
         .addresss-info li {
-            margin-bottom: 15px;
+            /* margin-bottom: 15px; */
         }
 
         .footer-logo img {
@@ -224,13 +226,7 @@
                 </ul>
             </div>
         </div>
-        <div class="footer-widget mt-20">
-            <div class="row">
-                <div class="col-md-6 text-left">
-                    <!-- <p class="mt-15">Maintained by: <a href="" target="_blank" class="text-white">Central Computer Center, NSUT</a></p> -->
-                </div>
-            </div>
-        </div>
+        
     </div>
 </footer>
 
