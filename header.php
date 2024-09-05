@@ -105,18 +105,19 @@
                                         padding: 16px;
                                         font-size: 16px;
                                         border: none;
+                                        width: 100%;
                                         }
 
                                         .dropdown {
                                         position: relative;
-                                        display: inline-block;
+                                        display: block;
                                         }
 
                                         .dropdown-content {
                                         display: none;
                                         position: absolute;
                                         background-color: #f1f1f1;
-                                        min-width: 160px;
+                                        width: 100%;
                                         box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
                                         z-index: 1;
                                         }
@@ -126,6 +127,7 @@
                                         padding: 12px 16px;
                                         text-decoration: none;
                                         display: block;
+                                        width: 100%;
                                         }
 
                                         .dropdown-content a:hover {
@@ -137,7 +139,17 @@
                                         }
 
                                         .dropdown:hover .dropbtn {}
+                                        @media (max-width: 768px) {
+        .dropdown-content {
+            width: 100%;
+            position: relative;
+ /* Ensure the dropdown content takes full width on smaller screens */
+        }
+    }
+
                                     </style>
+
+
 
 
                                     <li>
